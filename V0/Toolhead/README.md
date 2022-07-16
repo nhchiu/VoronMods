@@ -35,14 +35,21 @@ Extruder:
 
 Hotend:
 
-- Phaetus Dragon and Dragonfly BMO (refer to [this image of Mini-AfterSherpa](https://github.com/PrintersForAnts/Mini-AfterSherpa/blob/main/images/hotend-mounting-holes.png) for mounting position) - **Supports only 3007 axial fan**
-- Slice Engineering Mosquito - **Fits Both 3010 and 3007 axial fan**
+| Hotend                         | Supported Hotend Fan | Notes                                                                                                                                       |
+| ------------------------------ | -------------------- | ------------------------------------------------------------------------------------------------------------------------------------------- |
+| Phaetus Dragon & Dragonfly BMO | 3007                 | Refer to [this image](https://github.com/PrintersForAnts/Mini-AfterSherpa/blob/main/images/hotend-mounting-holes.png) for mounting position |
+| Slice Engineering Mosquito     | 3010 & 3007          |                                                                                                                                             |
+| E3D Revo Voron                 | 3010 & 3007          | Not tested                                                                                                                                  |
 
 ## Photo
 
 ![photo](./Images/Photo.jpg)
 
 ## Changelog
+
+### 2022-07-16
+
+- Added E3D Revo Voron support (not tested yet)
 
 ### 2022-07-10
 
