@@ -47,6 +47,12 @@ Hotend:
 
 ## Changelog
 
+### 2022-07-30
+
+- Revised the fan duct
+- Moved the zip tie slot higher so it clears the X carriage
+- Tweaked some faces and removed most of the fillets
+
 ### 2022-07-16
 
 - Added E3D Revo Voron support (not tested yet)
