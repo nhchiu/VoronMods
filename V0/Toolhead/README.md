@@ -1,17 +1,34 @@
-# V0 Toolhead
+# Mini Stealthdort
 
 ![Thumbnail](./Images/Thumbnail.png)
 
 Yet another versatile toolhead design for Voron-0.
 
+## Features
+
+- Shorter distance between the extruder and the hotend.
+- Light-weight printed parts.
+- The extruder will be mounted 4mm lower, so the tube is less likely to rub on the top-hat.
+- Built in cut-out for [Klicky probe for V0](https://github.com/jlas1/Klicky-Probe/tree/main/Printers/Voron/v0) and [ZeroClick](https://github.com/zruncho3d/ZeroClick) (use the provided probe STL in this repo).
+- Redesigned part cooling fan duct, which I don't know is better or worse (See the [CFD simulation](#cfd-simulation) below).
 - Similar mounting style as [Mini AfterSherpa](https://github.com/PrintersForAnts/Mini-AfterSherpa)
-- "Stealthy" look
-- Built in cut-out for [klicky probe for V0](https://github.com/jlas1/Klicky-Probe/tree/main/Printers/Voron/v0) and [ZeroClick](https://github.com/zruncho3d/ZeroClick) (use the modded probe in this repo)
-- Redesigned part cooling fan duct, which I don't know is better or worse.
+  The mounting holes and dimensions are mostly compatible with Mini AfterSherpa but the top surface is 4mm lower
 
-The mounting holes and dimensions are mostly compatible with [Mini AfterSherpa](https://github.com/PrintersForAnts/Mini-AfterSherpa) but the top surface is 4mm lower
+  ![Drawing](./Images/Drawing.png)
 
-![Drawing](./Images/Drawing.png)
+## CFD Simulation
+
+Tried some rough CFD simulation in [Simscale](https://www.simscale.com/).
+
+Particle traces around the nozzle:
+
+<img src="./Images/Screenshot_1.jpg" width="75%">
+
+<img src="./Images/Screenshot_2.jpg" width="75%">
+
+Air velocity magnitude on a horizontal plane 0.5mm below the tip of the nozzle:
+
+<img src="./Images/Screenshot_3.jpg" width="75%">
 
 ## BOM
 
@@ -67,6 +84,7 @@ Hotend:
 - [Mini AfterSherpa](https://github.com/PrintersForAnts/Mini-AfterSherpa)
 - [Mini After-LGX-Lite](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/Bondtech/Mini-After-LGX-Lite)
 - [MiniAfterHybrid](https://github.com/camerony/VoronCustom/tree/main/v0.1_MiniAfterHybrid)
+- [Apogee Tool Head](https://orbiterprojects.com/ender-3-v2/)
 - [Sherpa Mini Extruder](https://github.com/Annex-Engineering/Sherpa_Mini-Extruder)
 - [Sailfin Extruder](https://github.com/CroXY3D/Sailfin-Extruder)
 - [Sharkfin Extruder](https://github.com/KayosMaker/Sailfin-Extruder/tree/main/Usermods/KayosMaker/Sharkfin)
