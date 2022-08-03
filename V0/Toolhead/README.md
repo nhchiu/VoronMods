@@ -47,7 +47,8 @@ Optional:
 Extruder:
 
 - [Sherpa Mini](https://github.com/Annex-Engineering/Sherpa_Mini-Extruder)
-- [Sailfin](https://github.com/CroXY3D/Sailfin-Extruder) and [Sharkfin](https://github.com/KayosMaker/Sailfin-Extruder/tree/main/Usermods/KayosMaker/Sharkfin) (with Sherpa mount variant)
+- ~~[Sailfin](https://github.com/CroXY3D/Sailfin-Extruder) and [Sharkfin](https://github.com/KayosMaker/Sailfin-Extruder/tree/main/Usermods/KayosMaker/Sharkfin) (with Sherpa mount variant)~~
+  May require a spacer if using the stock X carriage. WIP.
 - [Vorxtrudort](https://github.com/nhchiu/VoronMods/tree/main/Extruder)
 
 Hotend:
