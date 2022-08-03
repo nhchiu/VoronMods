@@ -42,16 +42,18 @@ Optional:
 - One heatset insert for klicky probe mount
 - M2 self-tapping screw for ZeroClick
 
-## Supported Options
+## Supported Hardwares
 
-Extruder:
+### Extruder
 
-- [Sherpa Mini](https://github.com/Annex-Engineering/Sherpa_Mini-Extruder)
-- ~~[Sailfin](https://github.com/CroXY3D/Sailfin-Extruder) and [Sharkfin](https://github.com/KayosMaker/Sailfin-Extruder/tree/main/Usermods/KayosMaker/Sharkfin) (with Sherpa mount variant)~~
-  May require a spacer if using the stock X carriage. WIP.
-- [Vorxtrudort](https://github.com/nhchiu/VoronMods/tree/main/Extruder)
+| Extruder                                                                                                                                                                                 | Adapter                             |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------- |
+| [Sherpa Mini](https://github.com/Annex-Engineering/Sherpa_Mini-Extruder)                                                                                                                 | not required                        |
+| [Vorxtrudort](https://github.com/nhchiu/VoronMods/tree/main/Extruder)                                                                                                                    | not required                        |
+| [Sailfin](https://github.com/CroXY3D/Sailfin-Extruder) and [Sharkfin](https://github.com/KayosMaker/Sailfin-Extruder/tree/main/Usermods/KayosMaker/Sharkfin) (with Sherpa mount variant) | `4mm_spacer` (not tested)           |
+| [Orbiter V1.5](https://orbiterprojects.com/orbiter-1-5)                                                                                                                                  | `Orbiter_V1.5_adapter` (not tested) |
 
-Hotend:
+### Hotend
 
 | Hotend                         | Supported Hotend Fan | Notes                                                                                                                                       |
 | ------------------------------ | -------------------- | ------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -64,6 +66,10 @@ Hotend:
 ![photo](./Images/Photo.jpg)
 
 ## Changelog
+
+### 2022-08-04
+
+- Added untested support for Sailfin / Sharkfin extruder and Orbiter V1.5
 
 ### 2022-07-30
 
@@ -89,5 +95,6 @@ Hotend:
 - [Sherpa Mini Extruder](https://github.com/Annex-Engineering/Sherpa_Mini-Extruder)
 - [Sailfin Extruder](https://github.com/CroXY3D/Sailfin-Extruder)
 - [Sharkfin Extruder](https://github.com/KayosMaker/Sailfin-Extruder/tree/main/Usermods/KayosMaker/Sharkfin)
+- [Orbiter Projects](https://orbiterprojects.com)
 - [Klicky Probe](https://github.com/jlas1/Klicky-Probe)
 - [ZeroClick](https://github.com/zruncho3d/ZeroClick)
