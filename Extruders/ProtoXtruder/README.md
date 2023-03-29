@@ -39,7 +39,8 @@ It will need some bridging.
 ## Assembly
 
 ![Assembly](./Images/Assembly.jpeg)
-![Assembly Video](./Images/Assembling.mp4)
+
+https://user-images.githubusercontent.com/14959712/228478235-7f9f1ea8-db8a-41ff-84bd-ff1c1cee3275.mp4
 
 ## Firmware Settings
 
