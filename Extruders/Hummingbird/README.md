@@ -58,16 +58,16 @@ gear_ratio: 44:10, 37:17
 
 ## Changelog
 
-### 2023-01-13
-
-- Initial release
-
 ### 2023-04-01
 
 - New hummingbird logo curtesy of #chewy2420 on Discord!
 - Added a version without the hexagonal grid for easier print.
 - New short idler arm for compact looking (you can still feed the filament by rotating the exposed large gear).
 - Removed some plastic and tweaked some dimensions. **No part is compatible with previous versions!**
+
+### 2023-01-13
+
+- Initial release
 
 ## Credits and Related Projects
 
