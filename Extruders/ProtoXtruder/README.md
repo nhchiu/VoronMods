@@ -2,6 +2,11 @@
 
 ![Thumbnail](./Images/Thumbnail.png)
 
+**QUICK NOTE**
+
+**I found out depending on the clearance of the printed part, the idler pin may slide out during printing!
+Before being fixed in the model itself, put a little glue on the sides of the idler pin (Don't let glue go in the pin bearing!) if yours does not fit tight in the idler arm!**
+
 A extruder design that utilizes the large extrusion gears of [HGX-lite gear kit](https://www.aliexpress.com/item/1005004699143725.html)
 and comes with the mounting pattern of the [Sherpa Mini Extruder](https://github.com/Annex-Engineering/Sherpa_Mini-Extruder).
 
