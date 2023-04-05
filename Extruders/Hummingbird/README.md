@@ -32,7 +32,9 @@ To have the dual color effect as shown in the photo bellow, pause the print at 0
 
 ## Assembly
 
-![Thumbnail](./Images/Assembly.png)
+![Assembly](./Images/Assembly.png)
+
+![Assembly2](./Images/Assembly2.png)
 
 ## Key Dimensions
 
