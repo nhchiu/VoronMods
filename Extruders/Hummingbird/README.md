@@ -30,6 +30,12 @@ Same as Voron spec. 4 perimeters, 40% infill. No support required.
 
 To have the dual color effect as shown in the photo bellow, pause the print at 0.8mm height and change the filament color.
 
+### Tip for bridging over the hexagonal grid
+
+Use a height range modifier at 0.5-0.6 (mm) or add a cube modifier and place it at the height of the bridging, and force the bridging layer to print with only 2 perimeters.
+
+![Slicer](./Images/Slicer.png)
+
 ## Assembly
 
 ![Assembly](./Images/Assembly.png)
@@ -52,13 +58,24 @@ rotation_distance: 53.494165  # Re-calibrate your own value
 gear_ratio: 44:10, 37:17
 ```
 
-## Photo
+## Photos
+
+![photo](./Images/photo4.jpg)
+
+![photo](./Images/photo3.jpg)
 
 ![photo](./Images/photo1.jpg)
 
 ![photo](./Images/photo2.jpg)
 
 ## Changelog
+
+### 2023-05-02
+
+- Increased the maximum distance that the idler gear can bite into the filament.
+  This should prevent the filament from slipping due to the back pressure in the hotend.
+- Made the idler arm thicker so it doesn't get bent over time.
+- Added a multi-body STL (with MMU in the filename) for printing on a printer with MMU.
 
 ### 2023-04-01
 
