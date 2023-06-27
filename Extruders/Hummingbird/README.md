@@ -70,6 +70,10 @@ gear_ratio: 44:10, 37:17
 
 ## Changelog
 
+### 2023-06-28
+
+- Added support for 3 kinds of PTFE tube retainers (4mm OD).
+
 ### 2023-05-02
 
 - Increased the maximum distance that the idler gear can bite into the filament.
