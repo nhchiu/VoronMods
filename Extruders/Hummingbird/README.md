@@ -74,6 +74,12 @@ gear_ratio: 44:10, 37:17
 
 - Added support for 3 kinds of PTFE tube retainers (4mm OD).
 
+  |        |                                             |
+  | ------ | ------------------------------------------- |
+  | ECAS04 | <img src="./Images/ECAS04.png" width="40%"> |
+  | PC4-M6 | <img src="./Images/PC4M6.png" width="40%">  |
+  | Collet | <img src="./Images/Collet.png" width="40%"> |
+
 ### 2023-05-02
 
 - Increased the maximum distance that the idler gear can bite into the filament.
