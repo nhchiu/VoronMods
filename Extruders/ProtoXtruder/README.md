@@ -2,11 +2,6 @@
 
 ![Thumbnail](./Images/Thumbnail.png)
 
-**QUICK NOTE**
-
-**I found out depending on the clearance of the printed part, the idler pin may slide out during printing!
-Before being fixed in the model itself, put a little glue on the sides of the idler pin (Don't let glue go in the pin bearing!) if yours does not fit tight in the idler arm!**
-
 A extruder design that utilizes the large extrusion gears of [HGX-lite gear kit](https://www.aliexpress.com/item/1005004699143725.html)
 and comes with the mounting pattern of the [Sherpa Mini Extruder](https://github.com/Annex-Engineering/Sherpa_Mini-Extruder).
 
@@ -28,8 +23,7 @@ Refer to the following dimensions for compatibility with your printer.
   - Reduction gear x 1
   - Fasteners (included in the gear kit):
     - M3x8mm BHCS x 1
-    - M3x16mm SHCS x 1
-    - M3x20mm SHCS x 2
+    - M3x20mm SHCS x 3
     - Heat set inserts (M3 x D4.5 x H5) x 3
 - NEMA14 36mm round pancake motor with 10T gear
 
@@ -66,6 +60,16 @@ gear_ratio: 44:10, 37:17
 ![photo](./Images/photo2.jpg)
 
 ## Changelog
+
+### 2023-07-02
+
+- Increase the maximum compression on the filament for better gripping.
+- Fix the hole size of the idler shaft so it doesn't slip out during print.
+- Variants for 3 types of Bowden tube retainers.
+
+  ![retainers](./Images/retainers.png)
+
+- Replaced the M3 x 16 screw to M3 x 20 to make space for the Bowden tube retainers.
 
 ### 2023-03-29
 
