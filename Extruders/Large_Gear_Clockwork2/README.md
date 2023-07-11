@@ -2,7 +2,7 @@
 
 ![Thumbnail](./Images/Thumbnail.png)
 
-As title, it's basically the [Voron Clockwork2](https://github.com/VoronDesign/Voron-Stealthburner/tree/main/STLs/Clockwork2) utilizing the large extrusion gears of [HGX-lite gear kit](https://www.aliexpress.com/item/1005004699143725.html) to accomplish high gear ratios and good filament grip.
+As title, it's basically [Voron Clockwork2](https://github.com/VoronDesign/Voron-Stealthburner/tree/main/STLs/Clockwork2) utilizing the large extrusion gears of [HGX-lite gear kit](https://www.aliexpress.com/item/1005004699143725.html) or [Bondtech LGX Lite eXtruder](https://www.bondtech.se/product/lgx-lite-large-gears-extruder/) to accomplish high gear ratios and good filament grip.
 
 **If you are going to use a toolhead board, this would probably be only compatible with the 2-piece version of the [Stealthburner toolhead board](https://github.com/VoronDesign/Voron-Hardware/tree/master/Stealthburner_Toolhead_PCB) (mount it directly without the PCB spacer). The standard version will interfere with the gear below. *Check your own toolhead board / CAN board before use!***
 
@@ -62,6 +62,12 @@ gear_ratio: 44:10, 37:17
 
 ## Changelog
 
+### 2023-07-10
+
+- Increased the maximum squish on the filament.
+- Tweaked some dimensions here and there.
+- Included a variant using LGX-lite gears.
+
 ### 2023-02-20
 
 - Initial release
@@ -69,3 +75,4 @@ gear_ratio: 44:10, 37:17
 ## Credits
 
 - [Voron Stealthburner and Clockwork2](https://github.com/VoronDesign/Voron-Stealthburner)
+- [Bondtech LGX Lite eXtruder](https://www.bondtech.se/product/lgx-lite-large-gears-extruder/)
