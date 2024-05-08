@@ -62,6 +62,10 @@ gear_ratio: 44:10, 37:17
 
 ## Changelog
 
+### 2024-05-08
+
+- Removed the mockup gears in CAD to avoid confusion.
+
 ### 2023-07-10
 
 - Increased the maximum squish on the filament.

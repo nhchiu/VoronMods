@@ -70,6 +70,10 @@ gear_ratio: 44:10, 37:17
 
 ## Changelog
 
+### 2024-05-08
+
+- Removed the mockup gears in CAD to avoid confusion.
+
 ### 2023-06-28
 
 - Added support for 3 kinds of PTFE tube retainers (4mm OD).
