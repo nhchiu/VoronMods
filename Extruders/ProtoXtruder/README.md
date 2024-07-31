@@ -1,6 +1,6 @@
 # ProtoXtruder
 
-![Thumbnail](./Images/Thumbnail.png)
+![Thumbnail](./Images/Thumbnail.jpg)
 
 A extruder design that utilizes the large extrusion gears of [HGX-lite gear kit](https://www.aliexpress.com/item/1005004699143725.html)
 and comes with the mounting pattern of the [Sherpa Mini Extruder](https://github.com/Annex-Engineering/Sherpa_Mini-Extruder).
@@ -9,7 +9,7 @@ There is also an **untested** version for [Bondtech LGX Lite](https://www.bondte
 
 Refer to the following dimensions for compatibility with your printer.
 
-![Dimension](./Images/Dimension.png)
+![Dimension](./Images/Dimension.jpg)
 
 [![GitHub](https://img.shields.io/github/license/nhchiu/VoronMods)](https://github.com/nhchiu/VoronMods/blob/main/LICENSE)
 
@@ -40,7 +40,9 @@ It will need some bridging.
 
 ## Assembly
 
-![Assembly](./Images/Assembly.jpeg)
+![Assembly](./Images/Assembly.jpg)
+
+\* Remove the bottom half of the ECAS04 before inserting. (the black parts in plastic/rubber)
 
 https://user-images.githubusercontent.com/14959712/228478235-7f9f1ea8-db8a-41ff-84bd-ff1c1cee3275.mp4
 
@@ -64,13 +66,18 @@ gear_ratio: 44:10, 37:17
 
 ## Changelog
 
+### 2024-08-01
+
+- Made better measurements of the HGX gears and slightly tweaked some dimensions accordingly.
+- Some overall cleanups and aesthetic adjustments. Now the printed parts use roughly 10% less plastic.
+
 ### 2023-07-02
 
 - Increase the maximum compression on the filament for better gripping.
 - Fix the hole size of the idler shaft so it doesn't slip out during print.
 - Variants for 3 types of Bowden tube retainers.
 
-  ![retainers](./Images/retainers.png)
+  ![retainers](./Images/retainers.jpg)
 - Replaced the M3 x 16 screw to M3 x 20 to make space for the Bowden tube retainers.
 
 ### 2023-03-29
