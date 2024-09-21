@@ -8,7 +8,10 @@ This mod adds another bearing on the motor mount to support the other end of the
 It reduces the bending effect on the shaft caused by the tension of the timing belt.
 In theory it can make the motor runs smoother under high belt tension and most likely increase its lifespan too.
 
+![cross_section](./Images/Cross_section.jpg)
+
 **All dimensions are designed to fit the stock Switchwire motors (24mm long shaft). If your motor has longer or shorter shaft, please check if it fits before proceeding.**
+With the stock motor shaft length, the shaft can't reach through the full height of the bearing on X/Z motor mounts. But it should more or less still be helpful to hold the floating end of the shaft.
 
 If you like my design, please consider supporting my work through the following platforms. Thank you!
 
