@@ -66,6 +66,12 @@ gear_ratio: 44:10, 37:17
 
 ## Changelog
 
+### 2024-10-21
+
+- Updated the collet cutout for better tube retaining and filament loading.
+  No changes were made to other variants.
+  Thanks to @MartijnGevaert for the suggestion.
+
 ### 2024-08-01
 
 - Made better measurements of the HGX gears and slightly tweaked some dimensions accordingly.
