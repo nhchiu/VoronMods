@@ -19,6 +19,7 @@ Refer to the following dimensions for compatibility with your printer.
 ## BOM
 
 - HGX Lite extruder gear kit ([AliExpress affiliate link](https://s.click.aliexpress.com/e/_DCabyeT))
+  ***Newer kits replaced each pin bearing with 2 MR63ZZ. Both versions will work. (But the gears have different ID so they are not interchangeable.)***
   - MR63ZZ bearings x 2
   - 3mm shaft (16mm length) x 2
   - 3mm shaft (24mm length) x 1
