@@ -66,6 +66,15 @@ gear_ratio: 44:10, 37:17
 
 ## Changelog
 
+### 2024-12-12
+
+Bugfix update.
+
+- Thicker idler arm to prevent it being bent over time. Hopefully fixes [#20](https://github.com/nhchiu/VoronMods/issues/20).
+- The update at 2024-08-01 might cause the idler arm being bottomed out by tension and
+  still not providing enough pressure on the filament. Slightly shortened the distance between the
+  dual drive gears to address this issue.
+
 ### 2024-10-21
 
 - Updated the collet cutout for better tube retaining and filament loading.
