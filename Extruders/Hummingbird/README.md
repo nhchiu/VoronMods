@@ -8,9 +8,12 @@ It utilizes the large extrusion gears of [HGX-lite gear kit](https://www.aliexpr
 
 [![GitHub](https://img.shields.io/github/license/nhchiu/VoronMods)](https://github.com/nhchiu/VoronMods/blob/main/LICENSE)
 
+> This page contains affiliate links. If you purchase products through these links, I may earn a small commission at no additional cost to you.
+> This helps support the development and maintenance of my projects. Thank you for your support!
+
 ## BOM
 
-- HGX Lite extruder gear kit ([https://www.aliexpress.com/item/1005004699143725.html](https://www.aliexpress.com/item/1005004699143725.html))
+- HGX Lite extruder gear kit ([AliExpress affiliate link](https://s.click.aliexpress.com/e/_DCabyeT))
   - Fasteners:
     - M3x8mm BHCS x 1
     - M3x12mm BHCS x 1
@@ -21,7 +24,7 @@ It utilizes the large extrusion gears of [HGX-lite gear kit](https://www.aliexpr
   - 3mm shaft (24mm length) x 1
   - Large extrusion gear with pin bearing x 2
   - Reduction gear x 1
-- NEMA14 36mm round pancake motor with 10T gear
+- NEMA14 36mm round pancake motor with 10T gear (Affiliate links: [Moons](https://s.click.aliexpress.com/e/_DlgBbDN) or [LDO](https://s.click.aliexpress.com/e/_Dm8FCDD))
 - A short piece of PTFE tube (4mm OD, 2mm ID)
 
 ## Print Settings
